@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SettingsTemplate",
+	"Description": "Easy to configure settings template",
+	"Category": "Other",
+	"CreatedBy": "zamusamu",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SettingsTemplate",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
