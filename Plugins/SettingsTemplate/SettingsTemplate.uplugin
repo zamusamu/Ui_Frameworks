@@ -3,7 +3,7 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "SettingsTemplate",
-	"Description": "Easy to configure settings template",
+	"Description": "",
 	"Category": "Other",
 	"CreatedBy": "zamusamu",
 	"CreatedByURL": "",
@@ -11,7 +11,7 @@
 	"MarketplaceURL": "",
 	"SupportURL": "",
 	"CanContainContent": true,
-	"IsBetaVersion": false,
+	"IsBetaVersion": true,
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"Modules": [

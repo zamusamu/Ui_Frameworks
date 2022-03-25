@@ -4,22 +4,16 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
-#include "settingsactor.generated.h"
+#include "Dummy.generated.h"
 
-
-
-
-
-
-//THIS actor is used to load the settings structs and serves no other purpose 
 UCLASS()
-class SETTINGSTEMPLATE_API Asettingsactor : public AActor
+class SETTINGSTEMPLATE_API ADummy : public AActor
 {
 	GENERATED_BODY()
 	
 public:	
 	// Sets default values for this actor's properties
-	Asettingsactor();
+	ADummy();
 
 protected:
 	// Called when the game starts or when spawned

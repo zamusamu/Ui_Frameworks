@@ -12,7 +12,7 @@
  * 
  */
 UCLASS()
-class TANK_DEV_25_API USettingsParserLib : public UBlueprintFunctionLibrary
+class SETTINGSTEMPLATE_API USettingsParserLib : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 	
